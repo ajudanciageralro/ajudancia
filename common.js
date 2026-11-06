@@ -10,7 +10,7 @@
   /* ---------- Configuração (único lugar para trocar a URL do Apps Script) ---------- */
   GAR.SCRIPT_URL =
     'https://script.google.com/macros/s/AKfycbyFZbEGIRWgjhdONBKLEW0GuiWONhDlYL6Yd3yk6R2NtyLFTKWXFY3rj6yya7rwzQd9/exec';
-  GAR.VERSAO = '2026.11.06.2';
+  GAR.VERSAO = '2026.11.06.3';
   var RASCUNHO_VALIDADE_MS = 12 * 60 * 60 * 1000; // 12 h
   var MAX_FOTOS_POR_GRUPO = 8;
 
